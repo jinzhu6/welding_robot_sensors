@@ -1,0 +1,284 @@
+[Workspace Header]
+Version = 911
+Pathname = "/c/Proyecto/welding_robot/welding_robot.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2009"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/D/ProgramData/National Instruments/CVI2009"
+CVI Pub Global Dir = "/D/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "welding_robot.prj"
+Drag Bar Left = 354
+Window Top = 31
+Window Left = 26
+Window Bottom = 869
+Window Right = 1279
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 15
+Window Confinement Region Enabled = True
+MainColumnWidth = 337
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 911
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Build Platform = "Intel 32-bit"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/Proyecto/welding_robot/robot/Motonis_dll.fp"
+File Type = "Function Panel"
+Disk Date = 3443074426
+In Projects = "1,"
+
+[File 0002]
+Path = "/c/Proyecto/welding_robot/laser/MTE_laser.c"
+File Type = "CSource"
+Disk Date = 3450881656
+In Projects = "1,"
+Window Top = 212
+Window Left = 102
+Window Z-Order = 12
+Source Window State = "1,367,367,367,16,89,16,0,0,80,0,0,0,0,0,25,255,0,35,16,349,683,1,0,"
+
+[File 0003]
+Path = "/c/Proyecto/welding_robot/robot/robot.c"
+File Type = "CSource"
+Disk Date = 3472706593
+In Projects = "1,"
+Window Top = 92
+Window Left = 38
+Window Z-Order = 8
+Source Window State = "1,483,483,483,29,30,30,0,0,80,0,397,0,0,0,25,0,0,483,31,349,683,1,29,"
+
+[File 0004]
+Path = "/c/Proyecto/welding_robot/app/welding_robot.c"
+File Type = "CSource"
+Disk Date = 3458194176
+In Projects = "1,"
+Window Top = 242
+Window Left = 118
+Window Z-Order = 6
+Source Window State = "1,22,22,22,21,46,21,0,0,80,0,0,0,0,0,25,0,0,48,75,349,683,1,14,"
+
+[File 0005]
+Path = "/c/Proyecto/welding_robot/app/wr_engine.c"
+File Type = "CSource"
+Disk Date = 3475138051
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 1
+Source Window State = "1,470,470,470,57,58,58,0,0,111,0,15,0,0,0,48,15,0,61,109,349,683,1,0,"
+
+[File 0006]
+Path = "/c/Proyecto/welding_robot/laser/MTE_laser.h"
+File Type = "Include"
+Disk Date = 3450880962
+In Projects = "1,"
+Window Top = 182
+Window Left = 86
+Window Z-Order = 11
+Source Window State = "1,36,36,36,4,35,35,0,3,80,0,0,0,0,0,25,27,0,36,4,349,683,1,0,"
+
+[File 0007]
+Path = "/c/Proyecto/welding_robot/ui/panel.c"
+File Type = "CSource"
+Disk Date = 3477557948
+In Projects = "1,"
+Window Top = 152
+Window Left = 70
+Window Z-Order = 2
+Source Window State = "1,165,165,165,48,75,48,0,0,62,0,342,0,2,0,25,133,0,166,46,349,539,1,14,"
+
+[File 0008]
+Path = "/c/Proyecto/welding_robot/app/wr_engine.h"
+File Type = "Include"
+Disk Date = 3470039300
+In Projects = "1,"
+Window Top = 62
+Window Left = 22
+Window Z-Order = 9
+Source Window State = "1,67,67,67,4,21,21,0,3,74,0,0,0,0,0,25,14,0,67,4,349,635,1,0,"
+
+[File 0009]
+Path = "/c/Proyecto/welding_robot/ui/panel.uir"
+File Type = "User Interface Resource"
+Disk Date = 3470124049
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Height = 349
+Window Width = 683
+Window Z-Order = 10
+
+[File 0010]
+Path = "/c/Proyecto/welding_robot/robot/robot.h"
+File Type = "Include"
+Disk Date = 3472559442
+In Projects = "1,"
+Window Top = 62
+Window Left = 22
+Window Z-Order = 7
+Source Window State = "1,59,59,59,8,12,12,0,3,80,0,0,0,0,0,25,49,0,59,8,349,683,1,0,"
+
+[File 0011]
+Path = "/c/Program Files (x86)/National Instruments/CVI2009/sdk/include/Windows.h"
+File Type = "Include"
+Disk Date = 3360729600
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Z-Order = 15
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,26,0,38,1,349,683,1,0,"
+
+[File 0012]
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisPI_cam.h"
+File Type = "Include"
+Disk Date = 3477552305
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 4
+Source Window State = "1,31,31,31,8,28,8,0,0,80,0,0,0,0,0,25,0,0,48,48,349,683,1,0,"
+
+[File 0013]
+Path = "/c/Program Files (x86)/National Instruments/CVI2009/include/ansi/assert.h"
+File Type = "Include"
+Disk Date = 3360729600
+In Projects = ""
+Window Top = 32
+Window Left = 10
+Window Z-Order = 14
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,15,0,27,0,349,683,1,0,"
+
+[File 0014]
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisPI_cam.c"
+File Type = "CSource"
+Disk Date = 3477554944
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 3
+Source Window State = "1,84,84,84,46,49,49,0,0,80,0,0,0,0,0,25,77,0,86,52,349,683,1,0,"
+
+[File 0015]
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisCT.h"
+File Type = "Include"
+Disk Date = 3458188904
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 13
+Source Window State = "1,43,45,45,0,50,50,0,3,80,0,0,0,0,0,25,0,0,43,0,349,683,1,0,"
+
+[File 0016]
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisCT.c"
+File Type = "CSource"
+Disk Date = 3476964578
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 5
+Source Window State = "1,47,47,47,59,77,77,0,0,80,0,0,0,0,0,25,18,0,68,2,349,683,1,0,"
+
+[File 0017]
+Path = "/c/Proyecto/welding_robot/thermocamera/ImagerIPC2.h"
+File Type = "Include"
+Disk Date = 3449116594
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,61,61,61,29,39,39,0,3,0,0,0,0,0,0,0,41,0,61,29,349,683,1,0,"
+
+[File 0018]
+Path = "/c/Proyecto/welding_robot/thermocamera/ImagerIPC2.lib"
+File Type = "Library"
+Disk Date = 3410171588
+In Projects = "1,"
+
+[File 0019]
+Path = "/c/Proyecto/welding_robot/laser/MTE_com.h"
+File Type = "Include"
+Disk Date = 3442933168
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Source Window State = "1,28,28,28,8,30,30,0,3,0,0,0,0,0,0,0,0,0,28,8,349,683,1,0,"
+
+[File 0020]
+Path = "/c/Proyecto/welding_robot/ui/panel.h"
+File Type = "Include"
+Disk Date = 3470123889
+In Projects = "1,"
+Window Top = 272
+Window Left = 134
+Source Window State = "1,66,66,66,9,22,22,0,3,0,0,0,0,0,0,0,54,0,66,9,349,683,1,0,"
+
+[File 0021]
+Path = "/c/Proyecto/welding_robot/WSock32.Lib"
+File Type = "Library"
+Disk Date = 3360729600
+In Projects = "1,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[DLLs Used By Executable 0001]
+DLL 0001 = "/c/Windows/System32/ImagerIPC2.dll"
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+

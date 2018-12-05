@@ -1,0 +1,345 @@
+[Project Header]
+Version = 911
+Pathname = "/c/Proyecto/welding_robot/welding_robot.prj"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2009"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/D/ProgramData/National Instruments/CVI2009"
+CVI Pub Global Dir = "/D/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Files = 19
+Target Type = "Executable"
+Flags = 2064
+Copied From Locked InstrDrv Directory = False
+Copied from VXIPNP Directory = False
+Locked InstrDrv Name = ""
+Don't Display Deploy InstrDrv Dialog = False
+
+[File 0001]
+File Type = "Include"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "thermocamera/ImagerIPC2.h"
+Path = "/c/Proyecto/welding_robot/thermocamera/ImagerIPC2.h"
+Exclude = False
+Project Flags = 0
+Folder = "thermocamera"
+
+[File 0002]
+File Type = "Library"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "thermocamera/ImagerIPC2.lib"
+Path = "/c/Proyecto/welding_robot/thermocamera/ImagerIPC2.lib"
+Exclude = False
+Project Flags = 0
+Folder = "thermocamera"
+
+[File 0003]
+File Type = "Function Panel"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "robot/Motonis_dll.fp"
+Path = "/c/Proyecto/welding_robot/robot/Motonis_dll.fp"
+Exclude = False
+Project Flags = 0
+Folder = "robot"
+
+[File 0004]
+File Type = "Include"
+Res Id = 4
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "laser/MTE_com.h"
+Path = "/c/Proyecto/welding_robot/laser/MTE_com.h"
+Exclude = False
+Project Flags = 0
+Folder = "laser"
+
+[File 0005]
+File Type = "CSource"
+Res Id = 5
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "laser/MTE_laser.c"
+Path = "/c/Proyecto/welding_robot/laser/MTE_laser.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "laser"
+
+[File 0006]
+File Type = "Include"
+Res Id = 6
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "laser/MTE_laser.h"
+Path = "/c/Proyecto/welding_robot/laser/MTE_laser.h"
+Exclude = False
+Project Flags = 0
+Folder = "laser"
+
+[File 0007]
+File Type = "CSource"
+Res Id = 7
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "thermocamera/optrisCT.c"
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisCT.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "thermocamera"
+
+[File 0008]
+File Type = "Include"
+Res Id = 8
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "thermocamera/optrisCT.h"
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisCT.h"
+Exclude = False
+Project Flags = 0
+Folder = "thermocamera"
+
+[File 0009]
+File Type = "CSource"
+Res Id = 9
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "thermocamera/optrisPI_cam.c"
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisPI_cam.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "thermocamera"
+
+[File 0010]
+File Type = "Include"
+Res Id = 10
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "thermocamera/optrisPI_cam.h"
+Path = "/c/Proyecto/welding_robot/thermocamera/optrisPI_cam.h"
+Exclude = False
+Project Flags = 0
+Folder = "thermocamera"
+
+[File 0011]
+File Type = "CSource"
+Res Id = 11
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "ui/panel.c"
+Path = "/c/Proyecto/welding_robot/ui/panel.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "ui"
+
+[File 0012]
+File Type = "Include"
+Res Id = 12
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "ui/panel.h"
+Path = "/c/Proyecto/welding_robot/ui/panel.h"
+Exclude = False
+Project Flags = 0
+Folder = "ui"
+
+[File 0013]
+File Type = "User Interface Resource"
+Res Id = 13
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "ui/panel.uir"
+Path = "/c/Proyecto/welding_robot/ui/panel.uir"
+Exclude = False
+Project Flags = 0
+Folder = "ui"
+
+[File 0014]
+File Type = "CSource"
+Res Id = 14
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "robot/robot.c"
+Path = "/c/Proyecto/welding_robot/robot/robot.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "robot"
+
+[File 0015]
+File Type = "Include"
+Res Id = 15
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "robot/robot.h"
+Path = "/c/Proyecto/welding_robot/robot/robot.h"
+Exclude = False
+Project Flags = 0
+Folder = "robot"
+
+[File 0016]
+File Type = "CSource"
+Res Id = 16
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "app/welding_robot.c"
+Path = "/c/Proyecto/welding_robot/app/welding_robot.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "app"
+
+[File 0017]
+File Type = "CSource"
+Res Id = 17
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "app/wr_engine.c"
+Path = "/c/Proyecto/welding_robot/app/wr_engine.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "app"
+
+[File 0018]
+File Type = "Include"
+Res Id = 18
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "app/wr_engine.h"
+Path = "/c/Proyecto/welding_robot/app/wr_engine.h"
+Exclude = False
+Project Flags = 0
+Folder = "app"
+
+[File 0019]
+File Type = "Library"
+Res Id = 19
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "WSock32.Lib"
+Path = "/c/Proyecto/welding_robot/WSock32.Lib"
+Exclude = False
+Project Flags = 0
+Folder = "Not In A Folder"
+
+[Folders]
+Source Files Folder Not Added Yet = True
+Include Files Folder Not Added Yet = True
+User Interface Files Folder Not Added Yet = True
+Instrument Files Folder Not Added Yet = True
+Folder 0 = "laser"
+Folder 1 = "robot"
+Folder 2 = "ui"
+Folder 3 = "app"
+Folder 4 = "thermocamera"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+O Option Compatible With 5.0 = False
+Enable C99 Extensions = True
+Uninitialized Locals Compile Warning = "Conservative"
+Precompile Prefix Header = False
+Prefix Header File = ""
+
+[Run Options]
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "welding_robot.exe"
+Executable File_Debug = "/c/Proyecto/welding_robot/welding_robot.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "welding_robot.exe"
+Executable File_Release = "/c/Proyecto/welding_robot/welding_robot.exe"
+Executable File_Debug64 Is Rel = True
+Executable File_Debug64 Rel To = "Project"
+Executable File_Debug64 Rel Path = "welding_robot.exe"
+Executable File_Debug64 = "/c/Proyecto/welding_robot/welding_robot.exe"
+Executable File_Release64 Is Rel = True
+Executable File_Release64 Rel To = "Project"
+Executable File_Release64 Rel Path = "welding_robot.exe"
+Executable File_Release64 = "/c/Proyecto/welding_robot/welding_robot.exe"
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = False
+Generate Map File = False
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[Signing Info]
+Sign = False
+Sign Debug Build = False
+Store = ""
+Certificate = ""
+Timestamp URL = ""
+URL = ""
+
+[Manifest Info]
+Embed = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+

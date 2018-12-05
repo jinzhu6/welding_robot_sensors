@@ -1,0 +1,4 @@
+Depurar:
+-mm_adjust
+-pixel_adjust
+
