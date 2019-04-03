@@ -1,2 +1,2 @@
 # welding_robot_sensors
-ServoRobot, Motoman, Optrix, labWindows
+ServoRobot, Motoman, Optris, labWindows
